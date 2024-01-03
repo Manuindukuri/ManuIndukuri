@@ -13,7 +13,7 @@
 
 - 📫 Reach me at **<a href="https://www.linkedin.com/in/manohar-indukuri" target="_blank" >LinkedIn</a>**
 
-- 💬 Ask me about **Data Engineering, MLOps, Web Applications, RestFul API's**
+- 💬 Ask me about **Data Engineering, DevOps, Neural Networks, Cloud Computing, Web Applications, RestFul API's**
 
 - 📫 Email me **indukuri.k@northeastern.edu**
 
